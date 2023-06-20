@@ -2,27 +2,27 @@ let movies = [
   {
     name: "falcon and the winter soldier",
     des: "An action-packed montage is then shown, which showcases the action stuntwork and battles that will take place in the series. This includes Zemo fighting in his Marvel Comics mask. As Bucky points out, the two men are not friends; they're two guys who had a mutual friend (Steve Rogers) and now need to help one another.",
-    image: "images/slider 2.png",
+    image: "images/slider 2.PNG",
   },
   {
     name: "loki",
     des: " Loki, Prince of Asgard, Odinson, rightful heir of Jotunheim, and God of Mischief, is burdened with glorious purpose. His desire tobe a king drives him to sow chaos in Asgard. In his lust forpower, he extends his reach to Earth.",
-    image: "images/slider 1.png",
+    image: "images/slider 1.PNG",
   },
   {
     name: "wanda vision",
     des: "Marvel Studios presents WandaVision, a blend of classic television and the Marvel Cinematic Universe in which Wanda Maximoff (Elizabeth Olsen) and Vision (Paul Bettany) – two super-powered beings living idealized suburban lives – begin to suspect that everything is not as it seems.",
-    image: "images/slider 3.png",
+    image: "images/slider 3.PNG",
   },
   {
     name: "raya and the last dragon",
     des: "Raya and the Last Dragon was released to widespread critical acclaim, with praise directed towards its visuals, characters, world-building, and voice acting.",
-    image: "images/slider 4.png",
+    image: "images/slider 4.PNG",
   },
   {
     name: "Luca",
     des: "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
-    image: "images/slider 5.png",
+    image: "images/slider 5.PNG",
   },
 ];
 
